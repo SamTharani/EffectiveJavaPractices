@@ -42,12 +42,5 @@ public final class Student {
             return fullName;
         }
 
-        /*public static void main(String[] args) {
-
-            System.out.println("Student Full Name is= " + student.returnFullName("Samantha", "Jeyakumar"));
-            System.out.println("Address of the student is= " + student.returnAddress(2, "GreenlandRoad", "Jaffna", "SriLanka"));
-
-        }*/
-
 
 }
