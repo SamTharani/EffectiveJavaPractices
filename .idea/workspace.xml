@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1bbb9c3-198b-4df9-ac12-7a8e5c8e7d45" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Item3/EnumStudentList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Item3/SingletonStudent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Item2/University.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NumberInterface.java" afterPath="$PROJECT_DIR$/src/Item1/NumberInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Numbers.java" afterPath="$PROJECT_DIR$/src/Item1/Numbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReduceVerbosity.java" afterPath="$PROJECT_DIR$/src/Item1/ReduceVerbosity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Student.java" afterPath="$PROJECT_DIR$/src/Item1/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EffectiveJavaPractices.iml" afterPath="$PROJECT_DIR$/EffectiveJavaPractices.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Item3/EnumStudentList.java" afterPath="$PROJECT_DIR$/src/Item3/EnumStudentList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Item3/SingletonStudent.java" afterPath="$PROJECT_DIR$/src/Item3/SingletonStudent.java" />
     </list>
     <ignored path="EffectiveJavaPractices.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="University.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="University.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Item2/University.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49066213" vertical-offset="2156" max-vertical-offset="2745">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1076" max-vertical-offset="2745">
               <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
               <folding />
             </state>
@@ -81,8 +72,8 @@
       <file leaf-file-name="SingletonStudent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Item3/SingletonStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-              <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="660">
+              <caret line="29" column="59" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="59" />
               <folding>
                 <element signature="e#439#440#0" expanded="true" />
                 <element signature="e#471#472#0" expanded="true" />
@@ -95,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnumStudentList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EnumStudentList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Item3/EnumStudentList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="602">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,9 +150,9 @@
         <option value="$PROJECT_DIR$/src/Item1/Numbers.java" />
         <option value="$PROJECT_DIR$/src/Item2/University.java" />
         <option value="$PROJECT_DIR$/src/Item3/SingletonClass.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Item3/SingletonStudent.java" />
         <option value="$PROJECT_DIR$/src/Item3/EnumStudentList.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -638,12 +629,12 @@
       <workItem from="1436759464109" duration="5676000" />
       <workItem from="1437020830756" duration="12295000" />
       <workItem from="1437376259550" duration="599000" />
-      <workItem from="1437378865751" duration="3460000" />
+      <workItem from="1437378865751" duration="3846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22030000" />
+    <option name="totallyTimeSpent" value="22416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -883,18 +874,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Item3/EnumStudentList.java">
+    <entry file="file://$PROJECT_DIR$/src/Item2/University.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1076" max-vertical-offset="2745">
+          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Item3/SingletonStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="660">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="59" />
           <folding>
             <element signature="e#439#440#0" expanded="true" />
             <element signature="e#471#472#0" expanded="true" />
@@ -906,10 +897,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Item2/University.java">
+    <entry file="file://$PROJECT_DIR$/src/Item3/EnumStudentList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49066213" vertical-offset="2156" max-vertical-offset="2745">
-          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="602">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>

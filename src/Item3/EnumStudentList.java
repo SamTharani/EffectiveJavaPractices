@@ -10,7 +10,7 @@ public enum  EnumStudentList {
     STUDENT_LIST;
 
     private EnumStudentList(){}
-    public Student[] studentList()
+    public Student[] studentList()//It can be called at once
     {
 
         final Student[] students=new Student[5];

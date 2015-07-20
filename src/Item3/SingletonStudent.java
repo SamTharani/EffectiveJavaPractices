@@ -27,10 +27,11 @@ public class SingletonStudent {
         return university;
     }
 
-    private SingletonStudent(){}
+    private SingletonStudent(){} //It can be called at once
+
     private static final SingletonStudent STUDENT=new SingletonStudent();
 
-    public static SingletonStudent getStudent(){return STUDENT;}
+    public static SingletonStudent getStudent(){return STUDENT;} //Always returns the same instance
 
 
 
