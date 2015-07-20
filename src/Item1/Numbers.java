@@ -1,3 +1,5 @@
+package Item1;
+
 import java.util.Scanner;
 
 /**
@@ -5,7 +7,7 @@ import java.util.Scanner;
  */
 public abstract class Numbers {
 
-    //static factory methods for an interface named type (NumberInterface) are put in non-instantiable class named types [NumberImp()]
+    //static factory methods for an interface named type (Item1.NumberInterface) are put in non-instantiable class named types [NumberImp()]
     public static NumberInterface arithmeticOperations()
     {
         return new NumberImp();
